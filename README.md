@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Prateek-shree/LEETCODE/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Prateek-shree/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prateek-shree/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Prateek-shree/LEETCODE/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
