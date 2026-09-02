@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Prateek-shree/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateek-shree/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-shree/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0520-detect-capital](https://github.com/Prateek-shree/LEETCODE/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prateek-shree/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-shree/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prateek-shree/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
