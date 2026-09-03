@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prateek-shree/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/Prateek-shree/LEETCODE/tree/master/2706-buy-two-chocolates) |
 ## Binary Search
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Prateek-shree/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-shree/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateek-shree/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-shree/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-shree/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateek-shree/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prateek-shree/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
