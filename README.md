@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prateek-shree/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateek-shree/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-shree/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Prateek-shree/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prateek-shree/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/Prateek-shree/LEETCODE/tree/master/2706-buy-two-chocolates) |
@@ -151,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Prateek-shree/LEETCODE/tree/master/0190-reverse-bits) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/Prateek-shree/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-shree/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateek-shree/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prateek-shree/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -210,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
