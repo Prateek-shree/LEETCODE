@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prateek-shree/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/Prateek-shree/LEETCODE/tree/master/2706-buy-two-chocolates) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
 | [0904-fruit-into-baskets](https://github.com/Prateek-shree/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-shree/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -198,5 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
