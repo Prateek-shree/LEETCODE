@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prateek-shree/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Prateek-shree/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateek-shree/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prateek-shree/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Backtracking
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prateek-shree/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateek-shree/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/Prateek-shree/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-shree/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
