@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prateek-shree/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Prateek-shree/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2706-buy-two-chocolates](https://github.com/Prateek-shree/LEETCODE/tree/master/2706-buy-two-chocolates) |
 ## Binary Search
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Prateek-shree/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-shree/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-shree/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Prateek-shree/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/Prateek-shree/LEETCODE/tree/master/2706-buy-two-chocolates) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Prateek-shree/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
