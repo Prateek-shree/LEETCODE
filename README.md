@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prateek-shree/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/Prateek-shree/LEETCODE/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-shree/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Prateek-shree/LEETCODE/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prateek-shree/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateek-shree/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
