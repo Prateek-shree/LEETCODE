@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Prateek-shree/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-shree/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateek-shree/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Prateek-shree/LEETCODE/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prateek-shree/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Prateek-shree/LEETCODE/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
