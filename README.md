@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Prateek-shree/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prateek-shree/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prateek-shree/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateek-shree/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prateek-shree/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prateek-shree/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateek-shree/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prateek-shree/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Geometry
 |  |
