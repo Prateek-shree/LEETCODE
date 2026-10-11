@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateek-shree/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
+| [0885-spiral-matrix-iii](https://github.com/Prateek-shree/LEETCODE/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/Prateek-shree/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-shree/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prateek-shree/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/Prateek-shree/LEETCODE/tree/master/0885-spiral-matrix-iii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prateek-shree/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateek-shree/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prateek-shree/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/Prateek-shree/LEETCODE/tree/master/0885-spiral-matrix-iii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Geometry
 |  |
