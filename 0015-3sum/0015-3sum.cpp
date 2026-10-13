@@ -40,7 +40,7 @@ public:
                         right--;
                     }
                 }
-                else if (sum < 1) {
+                else if (sum < 0) {
                     left++;
                 }
                 else {
