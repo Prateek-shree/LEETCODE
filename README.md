@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Prateek-shree/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Prateek-shree/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prateek-shree/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/Prateek-shree/LEETCODE/tree/master/2326-spiral-matrix-iv) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-shree/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prateek-shree/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-shree/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2090-k-radius-subarray-averages](https://github.com/Prateek-shree/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 ## Prefix Sum
 |  |
 | ------- |
