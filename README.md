@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Prateek-shree/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0593-valid-square](https://github.com/Prateek-shree/LEETCODE/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek-shree/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-shree/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateek-shree/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/Prateek-shree/LEETCODE/tree/master/0593-valid-square) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Prateek-shree/LEETCODE/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Counting Sort
 |  |
