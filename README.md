@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prateek-shree/LEETCODE/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek-shree/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Prateek-shree/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0860-lemonade-change](https://github.com/Prateek-shree/LEETCODE/tree/master/0860-lemonade-change) |
 | [0885-spiral-matrix-iii](https://github.com/Prateek-shree/LEETCODE/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/Prateek-shree/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-shree/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Prateek-shree/LEETCODE/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Prateek-shree/LEETCODE/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/Prateek-shree/LEETCODE/tree/master/2706-buy-two-chocolates) |
 ## Queue
