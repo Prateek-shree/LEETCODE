@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Prateek-shree/LEETCODE/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prateek-shree/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/Prateek-shree/LEETCODE/tree/master/1051-height-checker) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Prateek-shree/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Prateek-shree/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Prateek-shree/LEETCODE/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek-shree/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Prateek-shree/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0885-spiral-matrix-iii](https://github.com/Prateek-shree/LEETCODE/tree/master/0885-spiral-matrix-iii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Prateek-shree/LEETCODE/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prateek-shree/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/Prateek-shree/LEETCODE/tree/master/2706-buy-two-chocolates) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prateek-shree/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/Prateek-shree/LEETCODE/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek-shree/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prateek-shree/LEETCODE/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Prateek-shree/LEETCODE/tree/master/0455-assign-cookies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Prateek-shree/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
