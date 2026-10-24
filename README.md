@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Prateek-shree/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek-shree/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateek-shree/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Prateek-shree/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prateek-shree/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Prateek-shree/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prateek-shree/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prateek-shree/LEETCODE/tree/master/0055-jump-game) |
