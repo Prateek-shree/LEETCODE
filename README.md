@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prateek-shree/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/Prateek-shree/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2706-buy-two-chocolates](https://github.com/Prateek-shree/LEETCODE/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prateek-shree/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prateek-shree/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Prateek-shree/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
@@ -353,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prateek-shree/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prateek-shree/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
