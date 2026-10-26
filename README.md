@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Prateek-shree/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0342-power-of-four](https://github.com/Prateek-shree/LEETCODE/tree/master/0342-power-of-four) |
 | [0593-valid-square](https://github.com/Prateek-shree/LEETCODE/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek-shree/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-shree/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Prateek-shree/LEETCODE/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Prateek-shree/LEETCODE/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Prateek-shree/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/Prateek-shree/LEETCODE/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prateek-shree/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prateek-shree/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/Prateek-shree/LEETCODE/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
