@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Prateek-shree/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prateek-shree/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek-shree/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Prateek-shree/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-shree/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateek-shree/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prateek-shree/LEETCODE/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek-shree/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Prateek-shree/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Prateek-shree/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Prateek-shree/LEETCODE/tree/master/0860-lemonade-change) |
 | [0885-spiral-matrix-iii](https://github.com/Prateek-shree/LEETCODE/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/Prateek-shree/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prateek-shree/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Prateek-shree/LEETCODE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
